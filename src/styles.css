@@ -1,0 +1,36 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+  .keyboard {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .key {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-size: 24px;
+  }
+  
+  .active {
+    background-color: #f0f0f0;
+  }
+  
+  button {
+    width: 150px;
+    font-size: 20px;
+    border-radius: 20em;
+    padding: 10px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
