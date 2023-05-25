@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/touchTyping/static/css/main.5b251149.css",
+    "main.js": "/touchTyping/static/js/main.b0db1513.js",
+    "static/js/787.7ab62cd2.chunk.js": "/touchTyping/static/js/787.7ab62cd2.chunk.js",
+    "index.html": "/touchTyping/index.html",
+    "main.5b251149.css.map": "/touchTyping/static/css/main.5b251149.css.map",
+    "main.b0db1513.js.map": "/touchTyping/static/js/main.b0db1513.js.map",
+    "787.7ab62cd2.chunk.js.map": "/touchTyping/static/js/787.7ab62cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b251149.css",
+    "static/js/main.b0db1513.js"
+  ]
+}
